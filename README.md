@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pameladias-streamline
+- 👋 Hi, I’m @pameladias-slyb
 - 👀 I’m interested in organising the repositories of the company
 - 🌱 I’m currently working with Streamlineyourbusiness team
 - 💞️ I’m looking to collaborate on company repo
